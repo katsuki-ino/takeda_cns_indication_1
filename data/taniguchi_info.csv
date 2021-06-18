@@ -1,0 +1,155 @@
+,gene,disease
+0,ABCA1,AI predicted psychiatric disorder 
+1,ABCG5,AI predicted psychiatric disorder 
+2,ABCG8,AI predicted psychiatric disorder 
+3,ACAT2,AI predicted psychiatric disorder 
+4,AGPAT2,AI predicted muscular dystrophy 
+5,ALS2,AI predicted muscular dystrophy 
+6,ANGPTL3,AI predicted psychiatric disorder 
+7,ANO5,AI predicted muscular dystrophy 
+8,APOA1,AI predicted psychiatric disorder 
+9,APOB,AI predicted psychiatric disorder 
+10,APOC3,AI predicted psychiatric disorder 
+11,ASB12,AI predicted muscular dystrophy 
+12,ASPA,AI predicted muscular dystrophy 
+13,BDNF,Obsessive compulsive disorder
+14,C19orf12,AI predicted muscular dystrophy 
+15,CACNA1A,AI predicted muscular dystrophy 
+16,CACNA1D,AI predicted psychiatric disorder 
+17,CACNA1S,AI predicted muscular dystrophy 
+18,CALCR,Osteoporosis
+19,CAV3,AI predicted muscular dystrophy 
+20,CEP290,AI predicted muscular dystrophy 
+21,CETP,AI predicted psychiatric disorder 
+22,CHRNA4,AI predicted psychiatric disorder 
+23,CLCN1,AI predicted muscular dystrophy 
+24,CLCN5,AI predicted muscular dystrophy 
+25,CLDN16,AI predicted muscular dystrophy 
+26,CLDN19,AI predicted muscular dystrophy 
+27,CNGB1,AI predicted muscular dystrophy 
+28,COL1A1,Osteoporosis
+29,COL1A2,Osteoporosis
+30,COL4A3,AI predicted muscular dystrophy 
+31,COL4A5,AI predicted muscular dystrophy 
+32,COMT,Obsessive compulsive disorder
+33,CYP46A1,AI predicted psychiatric disorder 
+34,DCTN1,AI predicted muscular dystrophy 
+35,DMD,AI predicted muscular dystrophy 
+36,DMPK,AI predicted muscular dystrophy 
+37,DRD4,"Attention deficit hyperactivity disorder (ADHD), Obsessive compulsive disorder"
+38,DRD5,Attention deficit hyperactivity disorder (ADHD)
+39,DSC2,AI predicted muscular dystrophy 
+40,DYSF,AI predicted muscular dystrophy 
+41,EIF2B2,AI predicted muscular dystrophy 
+42,EIF2B5,AI predicted muscular dystrophy 
+43,EPB42,AI predicted muscular dystrophy 
+44,FH,AI predicted psychiatric disorder 
+45,FIG4,AI predicted muscular dystrophy 
+46,FKRP,AI predicted muscular dystrophy 
+47,GAA,AI predicted muscular dystrophy 
+48,GDAP1,AI predicted muscular dystrophy 
+49,GFM2,AI predicted muscular dystrophy 
+50,GFOD2,AI predicted psychiatric disorder 
+51,GJB1,AI predicted muscular dystrophy 
+52,GJC2,AI predicted muscular dystrophy 
+53,HEXA,AI predicted muscular dystrophy 
+54,HEXB,AI predicted muscular dystrophy 
+55,HMGCR,AI predicted psychiatric disorder 
+56,HTR2A,Obsessive compulsive disorder
+57,KCNA1,AI predicted muscular dystrophy 
+58,KCNB1,AI predicted psychiatric disorder 
+59,KCNC3,AI predicted muscular dystrophy 
+60,KCNE1,AI predicted muscular dystrophy 
+61,KCNE2,AI predicted muscular dystrophy 
+62,KCNH2,AI predicted muscular dystrophy 
+63,KCNJ2,AI predicted muscular dystrophy 
+64,KCNJ6,AI predicted psychiatric disorder 
+65,KCNQ1,AI predicted muscular dystrophy 
+66,KIAA1549,AI predicted psychiatric disorder 
+67,LAMB2,AI predicted muscular dystrophy 
+68,LARS2,AI predicted muscular dystrophy 
+69,LCAT,AI predicted psychiatric disorder 
+70,LDB3,AI predicted muscular dystrophy 
+71,LDLR,AI predicted psychiatric disorder 
+72,LDLRAP1,AI predicted psychiatric disorder 
+73,LGR4,Osteoporosis
+74,LIPA,AI predicted psychiatric disorder 
+75,LIPC,AI predicted psychiatric disorder 
+76,LMF1,AI predicted psychiatric disorder 
+77,LMNA,AI predicted muscular dystrophy 
+78,LPL,AI predicted psychiatric disorder 
+79,LRP5,Osteoporosis
+80,LZTR1,AI predicted muscular dystrophy 
+81,MAOA,Obsessive compulsive disorder
+82,MFSD8,AI predicted muscular dystrophy 
+83,MKRN3,AI predicted muscular dystrophy 
+84,MTM1,AI predicted muscular dystrophy 
+85,MTTP,AI predicted psychiatric disorder 
+86,MYBPC3,AI predicted muscular dystrophy 
+87,MYH7,AI predicted muscular dystrophy 
+88,MYPN,AI predicted muscular dystrophy 
+89,NHLRC1,AI predicted muscular dystrophy 
+90,NPC1L1,AI predicted psychiatric disorder 
+91,NPHP1,AI predicted muscular dystrophy 
+92,NPHP3,AI predicted muscular dystrophy 
+93,NPHP4,AI predicted muscular dystrophy 
+94,NPHS1,AI predicted muscular dystrophy 
+95,NPHS2,AI predicted muscular dystrophy 
+96,OPRM1,AI predicted psychiatric disorder 
+97,PCSK9,AI predicted psychiatric disorder 
+98,PDLIM4,Osteoporosis
+99,PKD1,AI predicted muscular dystrophy 
+100,PKD2,AI predicted muscular dystrophy 
+101,PKHD1,AI predicted muscular dystrophy 
+102,PKP2,AI predicted muscular dystrophy 
+103,PLP1,AI predicted muscular dystrophy 
+104,PLS3,Osteoporosis
+105,PLTP,AI predicted psychiatric disorder 
+106,POLR3A,AI predicted muscular dystrophy 
+107,POLR3B,AI predicted muscular dystrophy 
+108,PON1,AI predicted psychiatric disorder 
+109,PROS1,AI predicted muscular dystrophy 
+110,PTH,Osteoporosis
+111,PYGM,AI predicted muscular dystrophy 
+112,RARS2,AI predicted muscular dystrophy 
+113,RP2,AI predicted muscular dystrophy 
+114,RYR1,AI predicted muscular dystrophy 
+115,SBF1,AI predicted muscular dystrophy 
+116,SCARB1,AI predicted psychiatric disorder 
+117,SCN1A,AI predicted psychiatric disorder 
+118,SCN4A,AI predicted muscular dystrophy 
+119,SCN5A,AI predicted muscular dystrophy 
+120,SEPSECS,AI predicted muscular dystrophy 
+121,SETX,AI predicted muscular dystrophy 
+122,SGCB,AI predicted muscular dystrophy 
+123,SGCG,AI predicted muscular dystrophy 
+124,SLC1A1,Obsessive compulsive disorder
+125,SLC52A2,AI predicted muscular dystrophy 
+126,SLC6A3,AI predicted psychiatric disorder 
+127,SLC6A4,Obsessive compulsive disorder
+128,SMN1,AI predicted muscular dystrophy 
+129,SMN2,AI predicted muscular dystrophy 
+130,SPAST,AI predicted muscular dystrophy 
+131,SPG11,AI predicted muscular dystrophy 
+132,SPTY2D1,AI predicted psychiatric disorder 
+133,STX11,AI predicted muscular dystrophy 
+134,STX16,AI predicted muscular dystrophy 
+135,TARDBP,AI predicted muscular dystrophy 
+136,TCAP,AI predicted muscular dystrophy 
+137,TG,AI predicted psychiatric disorder 
+138,TGFB1,Osteoporosis
+139,TMEM43,AI predicted muscular dystrophy 
+140,TNNI3,AI predicted muscular dystrophy 
+141,TNNT2,AI predicted muscular dystrophy 
+142,TOR1AIP1,AI predicted muscular dystrophy 
+143,TPH2,Attention deficit hyperactivity disorder (ADHD)
+144,TRIM42,AI predicted muscular dystrophy 
+145,TSEN34,AI predicted muscular dystrophy 
+146,TTN,AI predicted muscular dystrophy 
+147,UNC13D,AI predicted muscular dystrophy 
+148,VDR,Osteoporosis
+149,VLDLR,AI predicted psychiatric disorder 
+150,WDR45,AI predicted muscular dystrophy 
+151,WDR81,AI predicted muscular dystrophy 
+152,WNT1,Osteoporosis
+153,ZPR1,AI predicted psychiatric disorder 
